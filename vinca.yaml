@@ -231,6 +231,13 @@ packages_select_by_deps:
       - rplidar_ros
       - rqt_mocap4r2_control
       - rqt_tf_tree
+      - rqt_controller_manager
+      - rqt_joint_trajectory_controller
+      - rqt_ction
+      - rqt_publisher
+      - rqt_bag
+      - rqt_image_view
+      - rqt_reconfigure
       - rslidar_sdk
       - rviz_satellite
       - serial_driver
